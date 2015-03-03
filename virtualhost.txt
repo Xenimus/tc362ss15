@@ -1,0 +1,5 @@
+Subdomain1: www.sub1.kingbra7.bhstudents.net
+
+Subdomain2: www.sub2.kingbra7.bhstudents.net
+
+DO IP: 104.236.241.106
